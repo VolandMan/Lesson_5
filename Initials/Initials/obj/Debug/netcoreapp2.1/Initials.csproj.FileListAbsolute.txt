@@ -1,0 +1,10 @@
+C:\Users\SV\Desktop\Home_work\Initials\Initials\Initials\bin\Debug\netcoreapp2.1\Initials.deps.json
+C:\Users\SV\Desktop\Home_work\Initials\Initials\Initials\bin\Debug\netcoreapp2.1\Initials.runtimeconfig.json
+C:\Users\SV\Desktop\Home_work\Initials\Initials\Initials\bin\Debug\netcoreapp2.1\Initials.runtimeconfig.dev.json
+C:\Users\SV\Desktop\Home_work\Initials\Initials\Initials\bin\Debug\netcoreapp2.1\Initials.dll
+C:\Users\SV\Desktop\Home_work\Initials\Initials\Initials\bin\Debug\netcoreapp2.1\Initials.pdb
+C:\Users\SV\Desktop\Home_work\Initials\Initials\Initials\obj\Debug\netcoreapp2.1\Initials.csproj.CoreCompileInputs.cache
+C:\Users\SV\Desktop\Home_work\Initials\Initials\Initials\obj\Debug\netcoreapp2.1\Initials.AssemblyInfoInputs.cache
+C:\Users\SV\Desktop\Home_work\Initials\Initials\Initials\obj\Debug\netcoreapp2.1\Initials.AssemblyInfo.cs
+C:\Users\SV\Desktop\Home_work\Initials\Initials\Initials\obj\Debug\netcoreapp2.1\Initials.dll
+C:\Users\SV\Desktop\Home_work\Initials\Initials\Initials\obj\Debug\netcoreapp2.1\Initials.pdb
